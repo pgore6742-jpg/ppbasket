@@ -1,0 +1,6 @@
+{
+  "name": "PPBASKET",
+  "description": "A modern, premium, fast, and mobile-friendly e-commerce store with multiple categories, deals, user accounts, and an admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
